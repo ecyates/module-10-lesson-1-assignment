@@ -62,11 +62,10 @@ Author: Elizabeth Yates
         // Task 4: Explore assignment operators
         console.log("Updated num1:", ...);
         console.log("Updated num2:", ...);
-        Task 5: Use comparison operators to compare the values of variables.
 
 ### Task 5
 
-- Use comparison operators
+- Use comparison operators to compare the values of variables.
 
         // Task 5: Use comparison operators
         console.log("Is num1 equal to num2?", ...);
